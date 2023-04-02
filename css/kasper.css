@@ -983,6 +983,7 @@ header .container nav .form i:hover {
     border-radius: var(--main-redius);
     width: fit-content;
     margin: 20px auto;
+    color: black;
 
 }
 
