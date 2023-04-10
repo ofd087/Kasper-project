@@ -179,7 +179,8 @@ header .container nav ul {
     }
 
     header .container nav ul li a {
-        padding: 15px !important;
+        padding: 25px !important;
+        text-align: center;
     }
 
 }
@@ -983,7 +984,6 @@ header .container nav .form i:hover {
     border-radius: var(--main-redius);
     width: fit-content;
     margin: 20px auto;
-    color: black;
 
 }
 
